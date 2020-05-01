@@ -41,7 +41,7 @@ body {
   
   #outlines {
     stroke-width: 1;
-    stroke-opacity: 0.6;
+    stroke-opacity: 1;
   }
   
   .text-info {
