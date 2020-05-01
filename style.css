@@ -8,6 +8,8 @@ body {
     font-weight: normal;
     text-align: center;
     margin-top: 2vh;
+    color: #66fcf1;
+
   }
   
   svg {
@@ -45,7 +47,7 @@ body {
   }
   
   .text-info {
-    background: #23272D;
+    background: rgba(18,51,105,0.5);
     padding: 20px;
     max-width: 350px;
     border: 1px solid #B6DADD;
@@ -55,10 +57,13 @@ body {
   }
   .text-info table {
     margin-top: 10px;
+    color: #66fcf1;
+
   }
   .text-info td {
     width: 15%;
     height: 30px;
+    color: #66fcf1;
   }
   .text-info td:first-child {
     font-weight: bold;
@@ -66,7 +71,7 @@ body {
   .text-info h2 {
     margin: 0;
     padding-bottom: 10px;
-    border-bottom: 1px solid #7B848E;
+    border-bottom: 1px solid #66fcf1;
   }
   
   .x-out {
